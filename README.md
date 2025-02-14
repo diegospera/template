@@ -1,4 +1,4 @@
-# Diego's Full-Stack Template (updated ansh template-2 fork)
+# Diego's Full-Stack Template (ansh fork)
 
 This is a modern full-stack template project for building AI-powered applications. The template has been updated to use the latest Next.js 14 and includes all the essential dependencies for building production-ready applications.
 
